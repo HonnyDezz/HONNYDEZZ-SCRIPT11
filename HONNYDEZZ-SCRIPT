@@ -2611,8 +2611,7 @@ local noteTab = window:AddTab("Note")
 noteTab:AddLabel("HONNYDEZZ | SCRIPT PUBLICO")
 
 -- Add spacers for better layout
-noteTab:AddLabel("ADMIS:CHRISDEZZ,MIUDEZZ,HADESDEZZ,MAYKELDEZZ,
-MATHIKINGDEZZ,MATHIDEZZ,DORITOSDEZZ,SALVADEZZ,EDDIEDEZZ")
+noteTab:AddLabel("ADMIS:CHRISDEZZ,MIUDEZZ,HADESDEZZ,MAYKELDEZZ,MATHIKINGDEZZ,MATHIDEZZ,DORITOSDEZZ,SALVADEZZ,EDDIEDEZZ")
 -- Instead of one large text block, let's add each paragraph separately
 -- This gives better control over formatting
 noteTab:AddLabel("CREADO POR HONNYDEZZ")
